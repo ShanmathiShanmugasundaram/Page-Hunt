@@ -31,9 +31,7 @@ In traditional OS learning, concepts like FIFO, LRU, and Optimal page replacemen
 
 
 ##  Preview
-
-![Screenshot](pagehunt.png)
-
+![Alt text](pagehunt.png)
 
 ---
 
