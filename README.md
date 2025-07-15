@@ -19,7 +19,7 @@ In traditional OS learning, concepts like FIFO, LRU, and Optimal page replacemen
 
 ---
 
-##  Why Use PageHunt?
+##  Usage
 
 -  **Real-time Visualization**: Watch as pages are added, replaced, and faults are generated in each frame.
 -  **Custom Inputs**: Easily input your own page reference string and choose any frame size to simulate different conditions.
@@ -29,21 +29,13 @@ In traditional OS learning, concepts like FIFO, LRU, and Optimal page replacemen
 
 ---
 
-##  GitHub Profile
-
->  Developed by: [Shanmathi Shanmugasundaram](https://github.com/ShanmathiShanmugasundaram)
-
-If you like this project, don’t forget to ⭐ star the repository!
-
----
 
 ##  Preview
 
-![Screenshot]  
-![Uploading image.png…]()
+![Screenshot](pagehunt.png)
 
 
 ---
 
-## 🧾 Project Structure
+
 
