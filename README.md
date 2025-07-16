@@ -2,7 +2,7 @@
 
 **PageHunt** is a dynamic and interactive web application built to simulate and visualize the working of major page replacement algorithms in Operating Systems. It is especially designed for learners, educators, and curious minds who want to understand how memory management and page replacement policies work under the hood.
 
-In traditional OS learning, concepts like FIFO, LRU, and Optimal page replacement are often limited to theoretical explanations and dry textbook tables. PageHunt transforms that learning experience into an engaging and hands-on simulation that displays real-time memory allocation, page faults, and replacement steps.
+PageHunt transforms that learning experience into an engaging and hands-on simulation that displays real-time memory allocation, page faults, and replacement steps.
 
 ---
 
